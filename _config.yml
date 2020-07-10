@@ -83,3 +83,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
+
+#bgm
+side-bgm: true                          #是否开启侧边栏bgm控制器
+bgm-source: /img/about-bgm.mp3
