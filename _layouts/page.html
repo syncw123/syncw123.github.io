@@ -169,6 +169,15 @@ layout: default
                         {% if site.email %}
                             <p>✉️ {{site.email}}</p>
                         {% endif %}
+
+                        {% if site.side-bgm %}
+                            <p>
+                                <audio controls>
+                                    <source src="{{site.bgm-source}}" type="audio/mpeg">
+                                </audio>
+                            </p>
+                        {% endif %}
+
                     </div>
                 </section>
     		</div>
