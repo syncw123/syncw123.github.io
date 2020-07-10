@@ -85,5 +85,5 @@ service-worker: true
 
 
 #bgm
-side-bgm: true                          #是否开启侧边栏bgm控制器
+side-bgm: false                          #是否开启侧边栏bgm控制器。加载太慢了
 bgm-source: /img/about-bgm.mp3
