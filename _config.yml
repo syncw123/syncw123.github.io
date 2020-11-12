@@ -20,11 +20,7 @@ sidebar-avatar: /img/about-me.jpg      # use absolute URL, seeing it's used in b
 RSS: false
 github_username: syncw123    #github  username
 jianshu_username: 3c42a5a2b924    #jianshu id
-csdn_username: qq_35928356      #csdn  username
-infoq_name: temp       # infoQ id
-# oschina_name: temp     # oschina id
-# zhihu_username: captain-45-17-86    #zhihu username
-
+open_site_address: temp       # 
 
 
 # Build settings
