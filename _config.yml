@@ -1,10 +1,10 @@
 # Site settings
-title: Syncw's Blog
-SEOTitle: Syncw's Blog
+title: Voyage
+SEOTitle: Blog
 header-img: img/home-bg.jpg
 email: synch123@163.com
 description: "The only thing that matters is what you believe."
-keyword: "Syncw,syncw,AI,machine learning,机器学习, develop"
+keyword: "Blog,AI,machine learning,机器学习, develop"
 url: "https://www.syncw.work/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/syncw123/syncw123.github.io" # you code repository
